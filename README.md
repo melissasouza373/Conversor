@@ -27,8 +27,8 @@
 
 
 ## 🎨 Layout
-<img width="1366" height="628" alt="Captura de Tela (19)" src="https://github.com/user-attachments/assets/7ecfcc15-522e-4199-9282-561c5cc662e5" />
-<img width="1366" height="366" alt="Captura de Tela (20)" src="https://github.com/user-attachments/assets/62fbc656-f717-4cca-a467-c32239ec61fe" />
+<img width="756" height="635" alt="img conversor" src="https://github.com/user-attachments/assets/a0796a55-7ad9-4c2d-9984-86fcedf77cc3" />
+
 
 
 
